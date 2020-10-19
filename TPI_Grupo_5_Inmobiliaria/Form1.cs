@@ -15,6 +15,7 @@ namespace TPI_Grupo_5_Inmobiliaria
         public Form1()
         {
             InitializeComponent();
+            MessageBox.Show("hola");
         }
     }
 }
