@@ -16,7 +16,7 @@ namespace TPI_Grupo_5_Inmobiliaria
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new frmConsulta1());
         }
     }
 }
