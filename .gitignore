@@ -1,0 +1,12 @@
+
+*.exe
+
+\.vs/TPI_Grupo_5_Inmobiliaria/v14/\.suo
+
+*.pdb
+
+*.cache
+
+*.resources
+
+*.txt
